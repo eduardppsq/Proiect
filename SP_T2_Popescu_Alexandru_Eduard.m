@@ -1,7 +1,7 @@
 %Numar de ordine 22
 %Semnal triunghiular
 %Perioada P = 40 s
-%Durata semnalelor D = 22
+%Durata semnalelor D = 18
 %Rezolutie temporara adecvata
 %Numar de coeficienti = 50
 
