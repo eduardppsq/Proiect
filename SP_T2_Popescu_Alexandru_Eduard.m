@@ -6,7 +6,7 @@
 %Numar de coeficienti = 50
 
 P = 40; 
-D = 22; 
+D = 18; 
 N = 50;
 w0 = 2piP; %pulsatia unghiulara a semnalului
 t_tr = 00.02D; %esantionarea semnalului original
