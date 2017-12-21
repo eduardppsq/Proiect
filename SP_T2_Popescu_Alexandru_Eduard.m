@@ -1,4 +1,4 @@
-%Numar de ordine 22
+%Numar de ordine 18
 %Semnal triunghiular
 %Perioada P = 40 s
 %Durata semnalelor D = 18
